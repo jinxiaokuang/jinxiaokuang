@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jinxiaokuang.visitor-badge&left_color=green&right_color=red)
 
 # Hi, I’m jinxiaokuang!
 
