@@ -1,6 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jinxiaokuang.readme)
-
-# Hi, I’m jinxiaokuang!
+# Hi, I’m jinxiaokuang! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jinxiaokuang.readme)
 
 - 🔭 I’m currently a senior at [China University of Petroleum](https://www.upc.edu.cn/)
 - 🌱 My interests including but not limited to **Multimodal**, **LLMs**, **Backend Dev**
