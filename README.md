@@ -10,7 +10,7 @@
 - 🌱 My interests including but not limited to **Multimodal**, **LLMs**, **Backend Dev**
 - 🤔 I love e-sports🖥️ and playing table tennis🏓
 - 📫 How to reach me: *3557710838@qq.com*
-- 😄 You may like [Blog](https://www.jinxiaokuang.top)
+- 😄 You may like [My Blog](https://www.jinxiaokuang.top)
 
 # About My Github
 
