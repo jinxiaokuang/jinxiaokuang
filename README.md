@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-**My** ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) **visitor**
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 # Hi, I’m jinxiaokuang!
 
