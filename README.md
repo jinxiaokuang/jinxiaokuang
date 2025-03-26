@@ -1,11 +1,11 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jinxiaokuang.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jinxiaokuang.readme)
 
 # Hi, I’m jinxiaokuang!
 
 - 🔭 I’m currently a senior at [China University of Petroleum](https://www.upc.edu.cn/)
 - 🌱 My interests including but not limited to **Multimodal**, **LLMs**, **Backend Dev**
 - 🤔 I love e-sports🖥️ and playing table tennis🏓
-- 📫 How to reach me: *3557710838@qq.com*
+- 📫 How to reach me: [Mail](mailto:3557710838@qq.com)
 - 😄 You may like [My Blog](https://www.jinxiaokuang.top)
 
 # About My Github
