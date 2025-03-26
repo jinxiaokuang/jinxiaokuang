@@ -4,7 +4,7 @@
 
 **My** ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) **visitor**
 
-# Hi, I’m jinxiaokuang `<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">`
+# Hi, I’m jinxiaokuang!
 
 - 🔭 I’m currently a senior at [China University of Petroleum](https://www.upc.edu.cn/)
 - 🌱 My interests including but not limited to **Multimodal**, **LLMs**, **Backend Dev**
