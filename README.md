@@ -1,5 +1,5 @@
-# Hi, I’m jinxiaokuang! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jinxiaokuang.readme)
-
+**My** ![Visitor Count](https://profile-counter.glitch.me/jinxiaokuang/count.svg) **visitor**
+# Hi, I’m jinxiaokuang! 
 - 🔭 I’m currently a senior at [China University of Petroleum](https://www.upc.edu.cn/)
 - 🌱 My interests including but not limited to **Multimodal**, **LLMs**, **Backend Dev**
 - 🤔 I love e-sports🖥️ and playing table tennis🏓
