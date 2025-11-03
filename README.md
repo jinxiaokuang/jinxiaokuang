@@ -1,6 +1,6 @@
 **My** ![Visitor Count](https://profile-counter.glitch.me/jinxiaokuang/count.svg) **visitor**
 # Hi, I’m jinxiaokuang! 
-- 🔭 I’m currently a senior at [China University of Petroleum](https://www.upc.edu.cn/)
+- 🔭 I’m currently a student at [Dalian University of Technology](https://www.dlut.edu.cn/)
 - 🌱 My interests including but not limited to **Multimodal**, **LLMs**, **Backend Dev**
 - 🤔 I love e-sports🖥️ and playing table tennis🏓
 - 📫 How to reach me: [Mail](mailto:3557710838@qq.com)
